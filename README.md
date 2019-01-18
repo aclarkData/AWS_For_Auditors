@@ -24,3 +24,5 @@ Move to the output tab and wait for the stack to finish creating
 ![8](/images/8.png)
 Visit your website!
 ![10](/images/10.png)
+### Important
+After you finish admiring your work, click on the checkmark o nthe left side of your stack and go to the actions tab, and select delete stack, so you are not charged for it running. 
