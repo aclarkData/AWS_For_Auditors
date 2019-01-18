@@ -9,5 +9,4 @@ NACACAS 2019 AWS For Auditors materials
 ![6](/images/6.png)
 ![7](/images/7.png)
 ![8](/images/8.png)
-![9](/images/9.png)
 ![10](/images/10.png)
