@@ -3,7 +3,7 @@ NACACAS 2019 AWS For Auditors materials
 
 
 ## Create your first website in AWS using CloudFormation:
-Assumption you already have an account and a keypair setup. To perform these two setps, follow these tutorials:
+Assumption you already have an account and a keypair setup. To perform these two steps, follow these tutorials:
 
 
 Download the .yaml file, log into your AWS account, and perform the following steps.
