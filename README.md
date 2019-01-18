@@ -6,7 +6,7 @@ NACACAS 2019 AWS For Auditors materials
 Assumption you already have an account and a keypair setup. To perform these two steps, follow these tutorials:
 
 
-Download the .yaml file, log into your AWS account, and perform the following steps.
+[Download the .yaml file](https://github.com/aclarkData/NACACS-2019/blob/master/CloudFormationSample.yaml), log into your AWS account, and perform the following steps.
 ![AWSHome](/images/1.png)
 Navigate to the CloudFormation Service
 ![2](/images/2.png)
