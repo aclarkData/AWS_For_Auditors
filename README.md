@@ -1,5 +1,5 @@
-# NACACS-2019
-NACACAS 2019 AWS For Auditors materials
+# AWS For Auditors
+AWS For Auditors materials
 
 
 ## Create your first website in AWS using CloudFormation:
